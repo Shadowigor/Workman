@@ -59,9 +59,9 @@ keycode  51 =  comma  apostrophe  exclam
 keycode  52 =  slash    quotedbl  question
 keycode  53 =  minus  numbersign  plus
 
-keycode  58 =  BackSpace  BackSpace  Escape
-keycode  86 =      Right      Right  Right
-keycode  57 =      space      space  space
+keycode  58 =  BackSpace  Escape  Delete
+keycode  86 =      Right   Right  Right
+keycode  57 =      space   space  space
 
 keycode   1 = Escape
 keycode  14 = Delete
