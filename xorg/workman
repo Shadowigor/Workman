@@ -48,7 +48,7 @@ xkb_symbols "workman" {
     key <AC11> {  [   Return,  Return,  Return   ] };
     key <AC12> {  [   braceright,  asciicircum,  dollar   ] };
 
-    key <LSGT> {  [   Right,  Right,  Right   ] };
+    key <LSGT> {  [   Right,  Right,  grave   ] };
     key <AB01> {  [   z,  Z,  colon   ] };
     key <AB02> {  [   x,  X,  percent   ] };
     key <AB03> {  [   m,  M,  at   ] };
