@@ -42,7 +42,7 @@ xkb_symbols "workman" {
     key <AC05> {  [   g,  G,  bracketleft   ] };
     key <AC06> {  [   y,  Y,  bracketright   ] };
     key <AC07> {  [   n,  N,  braceleft   ] };
-    key <AC08> {  [   e,  E,  underscore   ] };
+    key <AC08> {  [   e,  E,  underscore, EuroSign   ] };
     key <AC09> {  [   o,  O,  semicolon   ] };
     key <AC10> {  [   i,  I,  period   ] };
     key <AC11> {  [   Return,  Return,  Return   ] };
@@ -56,7 +56,7 @@ xkb_symbols "workman" {
     key <AB05> {  [   v,  V,  backslash   ] };
     key <AB06> {  [   k,  K,  ampersand   ] };
     key <AB07> {  [   l,  L,  bar   ] };
-    key <AB08> {  [   comma,  apostrophe,  exclam   ] };
+    key <AB08> {  [   comma,  apostrophe,  exclam, grave   ] };
     key <AB09> {  [   slash,  quotedbl,  question   ] };
     key <AB10> {  [   minus,  numbersign,  plus   ] };
 
